@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Valeria</title>
+<!-- TemplateEndEditable -->
+<link href="../CSS/style.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<!-- TemplateBeginEditable name="body" -->
+
+	<div class="header">
+	
+	<a href="../index.html"><img src="../IMG/pinguinocabeza.png" width="115" height="auto" alt=""/></a>
+
+	</div>
+	
+	<div class="menu">
+		
+		
+	<ul>
+	<a href="Sobre mi.html"><li>Sobre mi</li></a>
+	<a href="Mis dibujos.html"><li>Mis dibujos</li></a>
+	<a href="Fotos que he tomado.html"><li>Fotos que he tomado</li></a>
+	<a href="Cosas que me gustan.html"><li>Cosas que me gustan</li></a>
+	
+	</ul>
+		
+		
+		
+	</div>
+	
+	<div class="wrapper">
+	<h1>HOLA</h1>
+	
+	</div>
+	
+	<div class="footer">
+	<p>Valeria Cañedo 2024</p>
+	
+	</div>
+	
+	<!-- TemplateEndEditable -->
+</body>
+</html>
